@@ -1,6 +1,6 @@
 <?php
 class test2{
-    //mb check float
+
     public function is_power($number, $base){
         if(is_int($number) && is_int($base)){
             if ($number == 1) {
