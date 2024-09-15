@@ -1,2 +1,1 @@
-# Figures
-Painting 3 types of figures bt using inheritance
+Made the first and second tasks.
